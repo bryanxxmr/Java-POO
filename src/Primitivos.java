@@ -28,7 +28,7 @@ public class Primitivos {
         System.out.println("valor máximo de long = " + Long.MAX_VALUE); //imprime el valor máximo que puede almacenar un long
         System.out.println("valor mínimo de long = " + Long.MIN_VALUE); //imprime el valor mínimo que puede almacenar un long
 
-        var numeroVar = 1000; //var permite declarar una variable sin especificar el tipo, el compilador lo infiere como int
+        var numeroVar = 9223372036854775808f; //var permite declarar una variable sin especificar el tipo, el compilador lo infiere como int
 
     }
 }

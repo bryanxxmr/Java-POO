@@ -1,4 +1,4 @@
-public class Primitivos {
+public class PrimitivosEnteros {
     public static void main(String[] args) {
         byte numeroByte = 7; //soportado -128 a 127, si colocamos un valor mayor, nos dará un error de compilación
         System.out.println("numeroByte = " + numeroByte);

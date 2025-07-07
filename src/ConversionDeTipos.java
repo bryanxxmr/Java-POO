@@ -13,4 +13,3 @@ public class ConversionDeTipos {
         System.out.println("valorBooleano = " + valorBooleano); // Imprime: valorBooleano = true
 
     }
-}
